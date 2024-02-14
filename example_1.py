@@ -82,6 +82,10 @@ while True:
          engine.say("yes sir")
          if 'hello' in recognized_text:
           engine.say("yes sir")
+
+          if 'hii' in recognized_text:
+          engine.say("yes sir")
+
          if 'jarvis are you there' in recognized_text:
           engine.say("Yes Sir, at your service")
          if 'time' in recognized_text:
