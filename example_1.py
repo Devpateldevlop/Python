@@ -83,7 +83,7 @@ while True:
          if 'hello' in recognized_text:
           engine.say("yes sir")
 
-          if 'hii' in recognized_text:
+         if 'hii' in recognized_text:
           engine.say("yes sir")
 
          if 'jarvis are you there' in recognized_text:
